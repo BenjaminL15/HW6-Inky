@@ -161,7 +161,7 @@ Are you ready to enter the Otherworld?
         We need to come up with a plan and before we continue over to the Wizard. You are going to test your new energon abilities while I find a way to stop the negative emotions from fueling him.
         -> traversal
     == traversal_halt ==
-        THIS IS IT! LETS GO 
+        THIS IS IT! LETS GO!
         -> chapter_4 
     == fallback_one ==
     oops you fell off from the Otherworld! 
